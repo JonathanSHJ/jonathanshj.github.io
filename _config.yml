@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : ""
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jonathan Ji"
 description              : &description "Undergrad EECS Student @ UC Berkeley"
