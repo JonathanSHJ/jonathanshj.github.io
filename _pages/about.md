@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
-My name is Jonathan Ji. I am a rising third-year undergrad studying Electrical Engineering & Computer Science at UC Berkeley. I love everything to do with electricity! I am currently interested in exploring computer architecture, digital/analog design, and cyber-physical systems.
+Welcome to my website!
+My name is Jonathan Ji, and I am a third-year undergrad studying Electrical Engineering & Computer Science at UC Berkeley. 
 
-I am currently undegrad researcher at the Space Science Laboratory, writing embedded software for the [Background Transisent Observer on Nasa's COSI](https://cosi.ssl.berkeley.edu/bto/) satellite. I was also the Electrical Lead for [CALSOL](https://calsol.berkeley.edu/), UC Berkeley's Solar Vehicle Racing Team, and have extensive experience with designing PCBs and surviving integration hell. 
+I am currently undegrad researcher at the Space Science Laboratory, writing embedded software for the [Background Transisent Observer on Nasa's COSI](https://cosi.ssl.berkeley.edu/bto/) satellite. Previously, I was the Electrical Lead for [CALSOL](https://calsol.berkeley.edu/), UC Berkeley's Solar Vehicle Racing Team, and have extensive experience with designing PCBs and surviving integration hell. 
+This semester I'm exploring digital design (ASICs), analog IC design, post-silicon verification, and domain acceleration research!
 
-Fun facts: I lived in Shanghai for 17 years. I play both the electric and bass guitar. I also love cats! 
+Outside of classes I enjoy playing soccer, playing the bass guitar, and learning how to DJ.
+
+If you want to chat please reach out via email!!!
 
 Some Relevant Completed Coursework:
 [EE 120: Signals and Systems](https://ee120-course-staff.github.io/)
