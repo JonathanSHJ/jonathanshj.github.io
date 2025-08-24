@@ -11,14 +11,17 @@ main:
   - title: "About"
     url : /about/
     
+  - title: "Resume"
+    url : /cv/
+
   - title: "Projects"
-    url: /publications/ 
+    url: /portfolio/ 
 
   - title: "Publications & Posters"
-    url: /teaching/    
+    url: /publications/  
     
   - title: "Art Portfolio"
-    url: /cv/
+    url: /404/
     
   # - title: "CV"
   #   url: /cv-json/
