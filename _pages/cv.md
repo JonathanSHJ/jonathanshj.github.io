@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My resume is linked here!](https://drive.google.com/file/d/1v44yAq5-imO1kI5nzJ4M9cAukQibK7ER/view?usp=sharing)
+[My resume is linked here!](https://drive.google.com/file/d/1kbrwAhmX8dlLpkR1YhhewEwFyowEjPuB/view?usp=sharing)
